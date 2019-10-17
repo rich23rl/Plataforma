@@ -1,11 +1,9 @@
 package com.company;
 
-
 import org.supercsv.cellprocessor.constraint.NotNull;
 import org.supercsv.cellprocessor.ift.CellProcessor;
 import org.supercsv.io.CsvBeanReader;
 import org.supercsv.prefs.CsvPreference;
-
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
