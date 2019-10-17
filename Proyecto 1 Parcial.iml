@@ -7,6 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="super-csv" level="project" />
+    <orderEntry type="library" name="super-csv-dozer" level="project" />
+    <orderEntry type="library" name="super-csv-java8" level="project" />
+    <orderEntry type="library" name="super-csv-joda" level="project" />
   </component>
 </module>
-
