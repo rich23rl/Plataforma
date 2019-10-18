@@ -1,8 +1,7 @@
-name,favoritAnimal
-'Rafa','gatito'
-'Esther','perrito'
-'Ricardo','perrito'
-'David','gatito'
-'Daniel','perrito'
-'Nahomi', 'pollito'
-'Cesar', 'perrito'
+nombre	cuenta	clase
+'Rafa'	'2145'	'espanol'
+'Raul'	'2743'	'matematicas'
+'Nahomy'	'2414'	'historia'
+'David'	'2824'	'fisica'
+'Ricardo'	'2445'	'quimica'
+'Ester'	'2165'	'arte'
