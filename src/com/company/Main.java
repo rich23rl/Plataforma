@@ -1,8 +1,8 @@
 package com.company;
 
-import com.company.alumnos.AlumnosController;
-import com.company.alumnos.AlumnosModel;
-import com.company.alumnos.AlumnosView;
+import com.company.AlumnosController;
+import com.company.AlumnosModel;
+import com.company.AlumnosView;
 
 public class Main {
 
