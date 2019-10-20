@@ -8,10 +8,10 @@ import com.company.LectorDeTeclado;
 import com.company.MaestrosController;
 import com.company.MaestrosView;
 
-public class MenuPrincipal {
+public class Menu2 {
     int opcion;
     LectorDeTeclado LDT = new LectorDeTeclado();
-    public void MenuPrincipal(){
+    public void Menu2(){
         System.out.println("\tPLataforma Virtual");
         System.out.println("1.Menu de Alumnos");
         System.out.println("2.Menu de Maestros");
