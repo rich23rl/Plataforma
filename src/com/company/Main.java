@@ -3,7 +3,6 @@ package com.company;
 import com.company.AlumnosController;
 import com.company.AlumnosModel;
 import com.company.AlumnosView;
-
 import java.util.Scanner;
 
 public class Main {

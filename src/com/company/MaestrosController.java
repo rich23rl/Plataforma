@@ -1,4 +1,5 @@
 package com.company;
+
 import com.company.LectorDeTeclado;
 
 public class MaestrosController {

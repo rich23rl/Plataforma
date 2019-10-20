@@ -14,7 +14,6 @@ public class ClaseView {
         System.out.println("7. Eliminar un clase");
     }
 
-
     void verLista (ArrayList<Clase> clases){
         System.out.println("\t\tClase:");
         System.out.println("#,\tclase, \thorario");
