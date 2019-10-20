@@ -1,15 +1,17 @@
-package com.company.maestros;
+package com.company;
 
-import com.company.alumnos.Alumnos;
 import org.supercsv.cellprocessor.constraint.NotNull;
 import org.supercsv.cellprocessor.ift.CellProcessor;
 import org.supercsv.io.CsvBeanReader;
+import org.supercsv.io.CsvBeanWriter;
+import org.supercsv.io.ICsvBeanWriter;
 import org.supercsv.prefs.CsvPreference;
 
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 
-public class MaestrosModel {
+public class AlumnosModel {
+
+
 }
+

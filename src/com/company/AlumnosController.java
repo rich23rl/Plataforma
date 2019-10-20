@@ -1,4 +1,4 @@
-package com.company.alumnos;
+package com.company;
 
 import com.company.lector.LectorDeTeclado;
 import org.supercsv.io.CsvBeanWriter;

@@ -1,4 +1,4 @@
-package com.company.maestros;
+package com.company;
 
 import java.util.ArrayList;
 

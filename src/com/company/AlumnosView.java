@@ -1,4 +1,4 @@
-package com.company.alumnos;
+package com.company;
 
 import org.w3c.dom.ls.LSOutput;
 
