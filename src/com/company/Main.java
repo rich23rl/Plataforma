@@ -5,12 +5,5 @@ import com.company.alumnos.AlumnosModel;
 import com.company.alumnos.AlumnosView;
 
 public class Main {
-
-    public static void main(String[] args) {
-        AlumnosView av = new AlumnosView();
-        AlumnosController ac = new AlumnosController();
-        av.MenuAlumnos();
-        ac.ObtenerResultado(ac.Leeropcion());
-        ac.presentarListaAlumnos();
-    }
+    
 }
